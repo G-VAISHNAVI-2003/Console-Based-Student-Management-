@@ -1,0 +1,6 @@
+Student ID,Full Name,Age,Date of Birth,Class,Subjects,Marks,Average Marks,Percentage,Grade
+9,srikanth,21,2001-09-08,a,"english,maths,science,physics","90,98,89,88",91.2500,22.81250000,A+
+10,vaishnavi,20,2003-03-11,d,"english,maths,chemistry,physics","99,89,78,90",89.0000,22.25000000,A
+11,danny,21,2002-09-14,d,"english,chemistry,maths,physics","89,79,80,90",84.5000,21.12500000,A
+12,madhu,26,1999-09-08,d,"english,maths,science,tamil","90,89,87,80",86.5000,21.62500000,A
+13,priya,22,2000-02-09,c,"maths,english,tamil,physics","90,78,68,98",83.5000,20.87500000,A
