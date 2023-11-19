@@ -269,8 +269,6 @@ def delete():
         # Then delete the student from the parent table
         res.execute("DELETE FROM students WHERE Full_name = %s", (full_name,))
         conn.commit()
-
-    # ... (similar changes for other delete options)
     print("Record Deleted..")
 
     res.close()
