@@ -32,6 +32,8 @@ This Python Student Management System interacts with a MySQL database, offering 
 
 ## Note
 - This system assumes a MySQL database named `student_management` is set up and accessible.
+
+## Sample Result
 ![py5](https://github.com/G-VAISHNAVI-2003/Console-Based-Student-Management-/assets/139878536/ba69505a-ef22-461d-9037-94d92beb4995)
 ![py4](https://github.com/G-VAISHNAVI-2003/Console-Based-Student-Management-/assets/139878536/64c65809-fda0-46be-bf7b-41e0a2c2766c)
 ![py3](https://github.com/G-VAISHNAVI-2003/Console-Based-Student-Management-/assets/139878536/04f69bb1-1688-48e4-9bea-18929dd7bc24)
